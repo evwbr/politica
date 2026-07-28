@@ -2,76 +2,70 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - Política</title>
 <atom:link href="https://evwbr.github.io/politica/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/politica/</link>
 <description>Política reescrita com IA - Evo Web News</description>
-<lastBuildDate>Tue, 28 Jul 2026 21:37:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 21:50:44 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[FNDC lança carta de compromisso pela democratização da comunicação]]></title>
-<link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/forum-pede-compromisso-de-candidatos-com-comunicacao-democratica</link>
+<title><![CDATA[FNDC lança carta de compromisso pela comunicação democrática]]></title>
+<link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/forum-pede-compromisso-de-candidatos-com-comunicacao-democratica?imgv=2</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Tue, 28 Jul 2026 19:16:00 GMT</pubDate>
 <category><![CDATA[Política]]></category>
-<guid isPermaLink="false"><![CDATA[1697892 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O Fórum Nacional pela Democratização da Comunicação vai lançar uma carta de compromisso para defender a democracia e a comunicação democrática. O documento busca a adesão pública de candidatos e pré-candidatos às eleições deste ano, com propostas para fortalecer a comunicação pública, comunitária e educativa no Brasil.]]></description>
+<guid isPermaLink="false"><![CDATA[1697892 at https://agenciabrasil.ebc.com.br:imgv2]]></guid>
+<description><![CDATA[O Fórum Nacional pela Democratização da Comunicação vai lançar uma carta de compromisso com a defesa da democracia e da comunicação democrática. O documento busca adesão pública de candidatos e pré-candidatos às eleições deste ano, propondo medidas para fortalecer a comunicação pública, comunitária e educativa no Brasil.]]></description>
+<enclosure url="https://imagens.ebc.com.br/3UmRmwnpQKyxWfXKpDCNglpQ5bI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/eleicoes-tse_mcamgo_abr_021020221818-10.jpg?itok=Oew08jnk" type="image/jpeg"/>
+<media:content url="https://imagens.ebc.com.br/3UmRmwnpQKyxWfXKpDCNglpQ5bI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/eleicoes-tse_mcamgo_abr_021020221818-10.jpg?itok=Oew08jnk" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://imagens.ebc.com.br/3UmRmwnpQKyxWfXKpDCNglpQ5bI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/eleicoes-tse_mcamgo_abr_021020221818-10.jpg?itok=Oew08jnk"/>
 <content:encoded><![CDATA[
-<p>O Fórum Nacional pela Democratização da Comunicação vai lançar uma carta de compromisso para defender a democracia e a comunicação democrática. O documento busca a adesão pública de candidatos e pré-candidatos às eleições deste ano, com propostas para fortalecer a comunicação pública, comunitária e educativa no Brasil.</p>
-<p>A carta traz pontos importantes para a democratização da comunicação, incluindo o investimento em soberania tecnológica e infraestrutura nacional, com o desenvolvimento de aplicações próprias gratuitas e a proibição da privatização de empresas como o Serpro e a Dataprev. Também propõe a regulação da tecnologia de inteligência artificial para garantir direitos e combater riscos como o uso excessivo em segurança pública e a violação de direitos.</p>
-<p>Outro destaque do documento é a proteção a jornalistas e comunicadores, com o fortalecimento de programas contra violências e intimidações, especialmente para profissionais que atuam em territórios de conflito. Além disso, defende a proibição da propriedade de mídia por políticos, efetivando o artigo 54 da Constituição para impedir que detentores de mandato possuam concessões de rádio e TV.</p>
-<p>A carta ainda enfatiza o fortalecimento e a independência da Empresa Brasil de Comunicação e outras empresas públicas, garantindo orçamento adequado, autonomia editorial e concursos públicos. Também prevê o restabelecimento do Conselho Curador e a expansão da Rede Nacional de Comunicação Pública. A leitura do documento será feita no Sindicato dos Jornalistas de São Paulo, com o anúncio das primeiras campanhas que aderiram ao compromisso.</p>
-<p>O FNDC reúne mais de 500 entidades da sociedade, entre associações, sindicatos, movimentos sociais, organizações não governamentais e coletivos, que atuam para proteger o trabalho dos jornalistas, difundir a comunicação para toda a sociedade, fortalecer a comunicação pública e combater a concentração de poder nos conglomerados de comunicação do país.</p>
-<p>A carta será apresentada oficialmente no próximo sábado no Sindicato dos Jornalistas de São Paulo, marcando o início das adesões públicas às eleições.</p>
+<p>O Fórum Nacional pela Democratização da Comunicação vai lançar uma carta de compromisso com a defesa da democracia e da comunicação democrática. O documento busca adesão pública de candidatos e pré-candidatos às eleições deste ano, propondo medidas para fortalecer a comunicação pública, comunitária e educativa no Brasil.</p>
+<p>A carta apresenta diversos pontos para fortalecer a democratização da comunicação no país, incluindo o combate ao monopólio das grandes empresas de comunicação digital. Entre as propostas estão o investimento em soberania tecnológica e infraestrutura nacional, com o desenvolvimento de aplicações gratuitas e a proibição da privatização de empresas como o Serpro e a Dataprev.</p>
+<p>Outro ponto importante é a regulação da tecnologia de Inteligência Artificial, com regras que garantam direitos e impeçam usos de risco, como o reconhecimento facial na segurança pública. A carta também defende a proteção a jornalistas e comunicadores, especialmente aqueles que atuam em territórios de conflito, por meio do fortalecimento de programas contra violências e intimidações.</p>
+<p>Além disso, o documento propõe a proibição da propriedade de mídia por políticos, para cumprir o Artigo 54 da Constituição, que impede que pessoas com mandato possuam concessões de rádio e TV. O fortalecimento e a independência da Empresa Brasil de Comunicação e outras empresas públicas de comunicação também são destacados, com garantia de orçamento, autonomia editorial e concursos públicos.</p>
+<p>A leitura da carta será realizada no Sindicato dos Jornalistas de São Paulo, junto com o anúncio das primeiras campanhas que aderiram ao documento. O Fórum Nacional pela Democratização da Comunicação reúne mais de 500 entidades em todo o Brasil, incluindo associações, sindicatos, movimentos sociais e coletivos, que atuam em defesa da comunicação democrática e da proteção ao trabalho dos jornalistas.</p>
+<p>A carta do FNDC será apresentada oficialmente no sábado, com adesões públicas de candidatos às eleições deste ano.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[MDB não lança candidato à Presidência e libera alianças estaduais]]></title>
-<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-07/mdb-define-por-neutralidade-na-disputa-pela-presidencia-da-republica</link>
+<title><![CDATA[MDB não terá candidato à Presidência e libera alianças estaduais]]></title>
+<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-07/mdb-define-por-neutralidade-na-disputa-pela-presidencia-da-republica?imgv=2</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Mon, 27 Jul 2026 23:24:00 GMT</pubDate>
 <category><![CDATA[Política]]></category>
-<guid isPermaLink="false"><![CDATA[1697800 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O MDB decidiu não lançar candidato à Presidência da República nas eleições deste ano e não fechar coligação nacional. O partido vai liberar os diretórios estaduais para definir alianças locais, buscando evitar rachas internos.]]></description>
+<guid isPermaLink="false"><![CDATA[1697800 at https://agenciabrasil.ebc.com.br:imgv2]]></guid>
+<description><![CDATA[O MDB decidiu não lançar candidato à Presidência da República nas eleições deste ano e não fechar coligação nacional. O partido também liberou os diretórios estaduais para definir alianças locais, buscando evitar divisões internas.]]></description>
+<enclosure url="https://imagens.ebc.com.br/iV32NkXpy3TZbrtl2lPmAYhhI0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/bandeira-mdb-e1542663046830.jpg?itok=gRqj8o_6" type="image/jpeg"/>
+<media:content url="https://imagens.ebc.com.br/iV32NkXpy3TZbrtl2lPmAYhhI0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/bandeira-mdb-e1542663046830.jpg?itok=gRqj8o_6" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://imagens.ebc.com.br/iV32NkXpy3TZbrtl2lPmAYhhI0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/bandeira-mdb-e1542663046830.jpg?itok=gRqj8o_6"/>
 <content:encoded><![CDATA[
-<p>O MDB decidiu não lançar candidato à Presidência da República nas eleições deste ano e não fechar coligação nacional. O partido vai liberar os diretórios estaduais para definir alianças locais, buscando evitar rachas internos.</p>
+<p>O MDB decidiu não lançar candidato à Presidência da República nas eleições deste ano e não fechar coligação nacional. O partido também liberou os diretórios estaduais para definir alianças locais, buscando evitar divisões internas.</p>
 <p>A decisão foi tomada em convenção nacional realizada nesta segunda-feira, com 77, 3% dos convencionais votando a favor da não formação de coligação para a eleição nacional. O MDB é o maior partido do país, com mais de 2 milhões de filiados, e reúne apoiadores de diferentes espectros políticos, incluindo aliados do presidente Lula e do ex-presidente Jair Bolsonaro.</p>
-<p>Com a decisão, o partido vai concentrar esforços na eleição de governadores e deputados estaduais, além de tentar ampliar sua bancada no Congresso, buscando eleger mais senadores e deputados federais. A convenção foi realizada de forma virtual, repetindo o formato adotado em 2022, sem a presença dos principais nomes da legenda em um auditório.</p>
-<p>O MDB mantém foco nas eleições estaduais e federais, enquanto libera diretórios para definir alianças locais nas eleições deste ano.</p>
+<p>Com a escolha, o partido concentrará seus esforços na eleição de governadores e deputados estaduais, além de tentar ampliar sua bancada no Congresso Nacional, buscando eleger mais senadores e deputados federais. A convenção foi realizada de forma virtual, repetindo o formato adotado em 2022, sem a presença física dos principais nomes da legenda.</p>
+<p>O MDB segue focado nas eleições estaduais e no fortalecimento de sua bancada no Congresso para o pleito deste ano.</p>
 ]]></content:encoded>
 </item>
 <item>
 <title><![CDATA[Romeu Zema é candidato à Presidência pelo Partido Novo]]></title>
-<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-07/novo-oficializa-romeu-zema-como-candidato-presidencia-da-republica</link>
+<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-07/novo-oficializa-romeu-zema-como-candidato-presidencia-da-republica?imgv=2</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Mon, 27 Jul 2026 23:13:00 GMT</pubDate>
 <category><![CDATA[Política]]></category>
-<guid isPermaLink="false"><![CDATA[1697780 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O Partido Novo oficializou a candidatura do ex-governador de Minas Gerais, Romeu Zema, à Presidência da República. A convenção nacional ocorreu em Brasília, e a vaga de vice na chapa ainda não foi definida pelo partido.]]></description>
+<guid isPermaLink="false"><![CDATA[1697780 at https://agenciabrasil.ebc.com.br:imgv2]]></guid>
+<description><![CDATA[O Partido Novo oficializou a candidatura do ex-governador de Minas Gerais, Romeu Zema, à Presidência da República. A convenção nacional ocorreu em Brasília, mas a vaga de vice na chapa ainda não foi definida pelo partido.]]></description>
+<enclosure url="https://imagens.ebc.com.br/ttJN4a0kd_5ABwBOP9NGrS4qsgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mg_romeu_zema_planalto_0409201910.jpg?itok=2Hv51yYH" type="image/jpeg"/>
+<media:content url="https://imagens.ebc.com.br/ttJN4a0kd_5ABwBOP9NGrS4qsgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mg_romeu_zema_planalto_0409201910.jpg?itok=2Hv51yYH" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://imagens.ebc.com.br/ttJN4a0kd_5ABwBOP9NGrS4qsgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mg_romeu_zema_planalto_0409201910.jpg?itok=2Hv51yYH"/>
 <content:encoded><![CDATA[
-<p>O Partido Novo oficializou a candidatura do ex-governador de Minas Gerais, Romeu Zema, à Presidência da República. A convenção nacional ocorreu em Brasília, e a vaga de vice na chapa ainda não foi definida pelo partido.</p>
-<p>Durante o discurso de lançamento da candidatura, Zema destacou que possui as credenciais necessárias para disputar o Palácio do Planalto e se posicionou como uma alternativa à polarização entre governo e oposição. Em segurança pública, prometeu classificar facções criminosas como organizações terroristas e construir um superpresídio em área isolada, preferencialmente na Amazônia, para concentrar lideranças do crime organizado.</p>
-<p>O ex-governador também defendeu a privatização de estatais e criticou o atual modelo de distribuição de emendas parlamentares. Sobre a escolha do vice, afirmou que a definição ocorrerá até o dia 5 de agosto, dentro do prazo previsto pela legislação eleitoral, e que o partido negocia com nomes de dentro e fora da legenda.</p>
-<p>Entre os cotados para vice está o ex-presidente do Supremo Tribunal Federal, Joaquim Barbosa, com quem Zema pretende retomar conversas nos próximos dias. Natural de Araxá, no interior de Minas Gerais, Zema tem 61 anos e chega à disputa após comandar o Grupo Zema na iniciativa privada e governar o estado por dois mandatos, entre 2019 e 2026.</p>
-<p>A candidatura de Romeu Zema segue em definição, com expectativa para anúncio do vice até o início de agosto.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Brasil e Coreia do Sul firmam acordos em diversas áreas]]></title>
-<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-07/carne-alcantara-e-mercosul-brasil-e-coreia-do-sul-firmam-acordos</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 21:39:00 GMT</pubDate>
-<category><![CDATA[Política]]></category>
-<guid isPermaLink="false"><![CDATA[1697745 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[Brasil e Coreia do Sul assinaram nesta segunda-feira múltiplos acordos nas áreas aeroespacial, energética, esportiva, educacional e científica. A visita oficial do presidente sul-coreano Lee Jae-myung começou em Brasília, fortalecendo a parceria entre os dois países.]]></description>
-<content:encoded><![CDATA[
-<p>Brasil e Coreia do Sul assinaram nesta segunda-feira múltiplos acordos nas áreas aeroespacial, energética, esportiva, educacional e científica. A visita oficial do presidente sul-coreano Lee Jae-myung começou em Brasília, fortalecendo a parceria entre os dois países.</p>
-<p>O comércio bilateral alcançou 11 bilhões de dólares em 2025, com o Brasil sendo o maior destino dos investimentos sul-coreanos na América Latina. O presidente Lula destacou que essa aproximação reflete nas relações econômicas e representa uma parceria preparada para os desafios de um mundo em rápida transformação.</p>
-<p>Em agosto, uma missão sanitária da Coreia do Sul visitará o Brasil para avaliar frigoríficos brasileiros, etapa importante para o acesso ao mercado sul-coreano. Além disso, um lançamento de foguete sul-coreano está previsto para setembro na base de Alcântara, no Maranhão, reforçando os acordos na área aeroespacial.</p>
-<p>O presidente Lula anunciou a criação de um grupo de trabalho, coordenado pelo vice-presidente Geraldo Alckmin, para retomar as negociações de um acordo entre o Mercosul e a Coreia do Sul. Na terça-feira, o presidente Lee Jae-myung visitará São Paulo, onde reside a maior comunidade sul-coreana no Brasil, com mais de 50 mil pessoas.</p>
-<p>A visita oficial do presidente sul-coreano segue com agenda em São Paulo, fortalecendo os laços entre Brasil e Coreia do Sul em diversas áreas estratégicas.</p>
+<p>O Partido Novo oficializou a candidatura do ex-governador de Minas Gerais, Romeu Zema, à Presidência da República. A convenção nacional ocorreu em Brasília, mas a vaga de vice na chapa ainda não foi definida pelo partido.</p>
+<p>Durante o discurso de lançamento da candidatura, Zema afirmou que possui as credenciais necessárias para disputar o Palácio do Planalto e se colocou como uma alternativa à polarização entre governo e oposição. Na área de segurança pública, prometeu classificar facções criminosas como organizações terroristas e construir um superpresídio em área isolada, preferencialmente na Amazônia, para concentrar lideranças do crime organizado.</p>
+<p>O ex-governador defendeu também a privatização de estatais e criticou o modelo atual de distribuição de emendas parlamentares. Sobre a escolha do vice, Zema informou que a definição ocorrerá até o dia 5 de agosto, prazo previsto pela legislação eleitoral, e que o partido negocia com nomes de dentro e fora da legenda, incluindo o ex-presidente do Supremo Tribunal Federal, Joaquim Barbosa.</p>
+<p>Natural de Araxá, no interior de Minas Gerais, Romeu Zema tem 61 anos e chega à disputa presidencial após comandar o Grupo Zema na iniciativa privada e governar Minas Gerais por dois mandatos, entre 2019 e 2026.</p>
+<p>Acompanhe as novidades sobre a candidatura de Romeu Zema e as definições do Partido Novo até o prazo final para registro das chapas em agosto.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
